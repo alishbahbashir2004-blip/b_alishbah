@@ -89,10 +89,14 @@ body .text-white\/40 {
   }
 
   .app-shell::before {
-    inset: 0;
+    inset: auto;
+    top: 50%;
+    left: 50%;
+    width: 200vw;
+    height: 200vh;
     background-size: cover;
     background-position: center center;
-    transform: rotate(90deg) scale(1.08);
+    transform: translate(-50%, -50%) rotate(90deg) scale(1.08);
     transform-origin: center center;
   }
 
