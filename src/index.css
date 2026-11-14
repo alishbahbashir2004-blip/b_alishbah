@@ -70,7 +70,8 @@ body .text-white\/40 {
 @media (max-width: 768px) {
   .app-shell {
     background-attachment: scroll !important;
-    background-size: cover !important;
+    background-repeat: repeat-y !important;
+    background-size: 100% auto !important;
     background-position: center top !important;
   }
 
