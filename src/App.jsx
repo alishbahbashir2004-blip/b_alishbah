@@ -37,7 +37,7 @@ export default function App() {
 
   return (
     <div
-      className="min-h-screen"
+      className="app-shell min-h-screen"
       style={{
         backgroundImage: "url('/bg3.jpg')",
         backgroundRepeat: 'no-repeat',

@@ -63,6 +63,60 @@ body .text-white\/40 {
   color: #ffffff !important;
 }
 
+.app-shell {
+  background-attachment: fixed;
+}
+
+@media (max-width: 768px) {
+  .app-shell {
+    background-attachment: scroll !important;
+    background-size: cover !important;
+    background-position: center top !important;
+  }
+
+  .photo-viewport {
+    height: 300px !important;
+  }
+
+  .photo-slide {
+    object-position: 52% 28% !important;
+  }
+
+  .hero-photo-card {
+    gap: 0.5rem;
+  }
+
+  .photo-nav {
+    width: 2.1rem !important;
+    height: 2.1rem !important;
+    font-size: 0.95rem !important;
+  }
+
+  .hero-caption {
+    font-size: 0.9rem !important;
+    min-height: unset !important;
+    line-height: 1.35 !important;
+  }
+
+  .achievement-list {
+    gap: 0.35rem;
+  }
+
+  .achievement-pill {
+    padding: 0.28rem 0.52rem !important;
+    font-size: 0.56rem !important;
+  }
+
+  .social-box {
+    min-height: 42px !important;
+    padding: 0.55rem 0.75rem !important;
+  }
+
+  .social-box span {
+    font-size: 0.78rem !important;
+  }
+}
+
 body .text-lego-red,
 body .text-lego-blue,
 body .text-lego-red *,
