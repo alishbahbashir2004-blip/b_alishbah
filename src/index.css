@@ -64,16 +64,36 @@ body .text-white\/40 {
 }
 
 .app-shell {
+  position: relative;
+  isolation: isolate;
   background-attachment: fixed;
+}
+
+.app-shell::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: url('/bg3.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  z-index: -1;
+  pointer-events: none;
 }
 
 @media (max-width: 768px) {
   .app-shell {
+    background: none !important;
     background-attachment: scroll !important;
-    background-repeat: repeat-y !important;
-    background-size: contain !important;
-    background-position: center top !important;
     background-color: #000000 !important;
+  }
+
+  .app-shell::before {
+    inset: -8% -12% -8% -12%;
+    background-size: cover;
+    background-position: center center;
+    transform: rotate(90deg) scale(1.2);
+    transform-origin: center center;
   }
 
   .photo-viewport {
