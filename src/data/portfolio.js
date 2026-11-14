@@ -72,14 +72,14 @@ export const experience = [
 
 export const skills = [
   {
-    label: 'Agentic AI Frameworks',
+    label: 'Agentic AI',
     color: 'lego-red',
     items: ['LangGraph', 'LangChain', 'LangSmith', 'Workflows (Seq/Par/Cond)', 'HITL', 'Observability', 'Memory (STM/LTM)', 'Subgraphs', 'Multi-Agent Orchestration', 'MCP Clients'],
   },
   {
     label: 'Advanced RAG',
     color: 'lego-blue',
-    items: ['Self-RAG', 'Corrective RAG (CRAG)', 'Relevance Grading', 'Query Rewriting', 'Chroma / FAISS / Pinecone', 'MMR / Multi-Query', 'Ensemble Retrieval'],
+    items: ['Self-RAG', 'Corrective RAG (CRAG)', 'Relevance Grading', 'Query Rewriting', 'MMR / Multi-Query', 'Ensemble Retrieval'],
   },
   {
     label: 'Programming & Tools',
