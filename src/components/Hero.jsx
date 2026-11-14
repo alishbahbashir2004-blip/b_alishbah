@@ -92,7 +92,7 @@ export default function Hero() {
           <div className="mt-6 text-[0.95rem] md:text-lg" style={{ color: '#ffffff', fontFamily: 'Optima, "Segoe UI", "Avenir Next", sans-serif', lineHeight: 1.8 }}>
             <div style={{ color: '#ffffff' }}>
               <div style={{ marginBottom: '0.2rem', color: '#ffffff' }}>
-                I graduated in CS with CoM Award. My fellows used to call me theeta. Never mind. I called myself hardworking. I’m glad with the progress I made in my undergrad years nevertheless.
+                I graduated in CS with CoM Award. People used to call me theeta. I called myself hardworking. Nevertheless, I’m glad with the progress I made in my undergrad years.
               </div>
               <div style={{ color: '#ffffff', marginTop: '0.75rem' }}>
                 I like doing research. I also like yapping. Both are just asking questions until something clicks. The Maze Runner is my all time favourite movie. One of my shortcomings is being a perfectionist which can get really toxic sometimes. Anyway, that's who I am. The rest of the site is what I've done.
