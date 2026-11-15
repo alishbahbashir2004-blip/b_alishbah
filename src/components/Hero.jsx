@@ -95,7 +95,7 @@ export default function Hero() {
                 I graduated in Computer Science with CoM Award. People used to call me theeta. I called myself hardworking. Nevertheless, I’m glad with the progress I made in my undergrad years.
               </div>
               <div style={{ color: '#ffffff', marginTop: '0.75rem' }}>
-                I like doing research. I also like yapping. Both are just asking questions until something clicks. The Maze Runner is my all time favourite movie. One of my shortcomings is being a perfectionist which can get really toxic sometimes. Anyway, that's who I am. The rest of the site is what I've done.
+                I like doing research. I also like yapping. Both are just asking questions until something clicks. One of my shortcomings is being a perfectionist which can get really toxic sometimes. Anyway, that's who I am. The rest of the site is what I've done.
               </div>
               <div style={{ color: '#ffffff', marginTop: '0.75rem', fontStyle: 'italic' }}>
                 And oh, forgot to mention, I love eating too.
