@@ -98,7 +98,7 @@ export default function Hero() {
                 I like doing research. I also like yapping. Both are just asking questions until something clicks. One of my shortcomings is being a perfectionist which can get really toxic sometimes. Anyway, that's who I am. The rest of the site is what I've done.
               </div>
               <div style={{ color: '#ffffff', marginTop: '0.75rem', fontStyle: 'italic' }}>
-                And oh, forgot to mention, I love eating too.
+                
               </div>
             </div>
           </div>
