@@ -16,7 +16,7 @@ export default function Research() {
               Achieved 94% precision on Urdu news datasets and is currently under review for publication.
             </p>
             <a
-              href="https://drive.google.com/file/d/1FFROPXvbHxsk6PCayCqBTU_6RMzB2h6i/view?usp=drive_link"
+              href="https://github.com/alishbahbashir2004-blip/ULTRA_Codes/blob/main/README.md"
               target="_blank"
               rel="noreferrer"
               className="mt-6 inline-flex items-center gap-2 text-base font-bold text-[#2563eb] underline underline-offset-4 decoration-[#2563eb] hover:decoration-[#1d4ed8]"
@@ -36,7 +36,7 @@ export default function Research() {
               who are looking for an extensible, transparent and data-based emissions assessment tool based on satellite observations.
             </p>
             <a
-              href="https://docs.google.com/document/d/13-FYQzURBT8xKJLF77Dab8fI_yidbexI/edit?usp=drive_link&ouid=116828444934854685187&rtpof=true&sd=true"
+              href="https://github.com/alishbahbashir2004-blip/Geosatellite_Emissions_Platform/blob/main/README.md"
               target="_blank"
               rel="noreferrer"
               className="mt-6 inline-flex items-center gap-2 text-base font-bold text-[#2563eb] underline underline-offset-4 decoration-[#2563eb] hover:decoration-[#1d4ed8]"
